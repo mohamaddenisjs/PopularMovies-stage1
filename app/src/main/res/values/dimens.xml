@@ -7,7 +7,7 @@
     <dimen name="heightRating">30dp</dimen>
     <dimen name="textMarginBottom">2dp</dimen>
     <dimen name="textMarginLeftRight">5dp</dimen>
-    <dimen name="marginTop">10dp</dimen>
+    <dimen name="marginTop">2dp</dimen>
     <dimen name="marginBottom">2dp</dimen>
 
     <dimen name="textSizeDetail">15sp</dimen>

@@ -85,7 +85,7 @@
                         android:layout_marginLeft="@dimen/textMarginLeftRight"
                         android:layout_weight="1"
                         android:text="RELEASE DATE:"
-                        android:textColor="@android:color/white"
+                        android:textColor="@android:color/holo_blue_dark"
                         android:textSize="@dimen/textSizeDetail" />
                 </LinearLayout>
 
@@ -122,7 +122,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="@dimen/textMarginLeftRight"
                         android:text="DESCRIPTION:"
-                        android:textColor="@android:color/white"
+                        android:textColor="@android:color/holo_blue_dark"
                         android:textSize="@dimen/textSizeDetail" />
                 </LinearLayout>
 
@@ -135,9 +135,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical|right"
-                        android:layout_marginBottom="@dimen/marginBottom"
-                        android:layout_marginLeft="@dimen/textMarginLeftRight"
-                        android:layout_marginRight="@dimen/textMarginLeftRight"
+
                         android:gravity="left"
                         android:text=""
                         android:textColor="@android:color/white"

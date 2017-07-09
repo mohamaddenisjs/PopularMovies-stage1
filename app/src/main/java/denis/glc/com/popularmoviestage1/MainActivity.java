@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
         adapter.notifyDataSetChanged();
 
         fetchDataMovies("now_playing");
-        setTitle("Now Playing");
+        setTitle("List Movie");
     }
 
     private void fetchDataMovies(String movieReq) {
@@ -155,11 +155,11 @@ public class MainActivity extends AppCompatActivity {
 
         if (id == R.id.popularity) {
             movieList.clear();
-            fetchDataMovies("popularity");
+            fetchDataMovies("popular");
             setTitle("Popularity");
         } else {
             movieList.clear();
-            fetchDataMovies("top_ratings");
+            fetchDataMovies("top_rated");
             setTitle("Top Ratings");
         }
 

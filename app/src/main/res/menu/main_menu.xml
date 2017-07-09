@@ -5,11 +5,13 @@
     <item
         android:id="@+id/popularity"
         android:title="Popularity"
+        android:icon="@drawable/ic_trending_up_white_48dp"
         app:showAsAction="always"
         />
     <item
         android:id="@+id/ratings"
         android:title="Top Ratings"
+        android:icon="@drawable/ic_thumb_up_white_48dp"
         app:showAsAction="always"
         />
 
