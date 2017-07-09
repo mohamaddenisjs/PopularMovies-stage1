@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="heightSizeAppBarLayout">200dp</dimen>
+    <dimen name="heightImageView">300dp</dimen>
+    <dimen name="paddingLeftRght">15dp</dimen>
+    <dimen name="heightRating">30dp</dimen>
+    <dimen name="textMarginBottom">2dp</dimen>
+    <dimen name="textMarginLeftRight">5dp</dimen>
+    <dimen name="marginTop">10dp</dimen>
+    <dimen name="marginBottom">2dp</dimen>
+
+    <dimen name="textSizeDetail">15sp</dimen>
+    <dimen name="textSizeVote">20sp</dimen>
+</resources>

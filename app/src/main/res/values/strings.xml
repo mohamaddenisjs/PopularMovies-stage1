@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopularMovieStage1</string>
+    <string name="networkError">Cannot connect to Internet...Please check your connection!</string>
+    <string name="serverError">The server could not be found. Please try again after some time!</string>
+    <string name="authFailureError">Cannot connect to Internet...Please check your connection!</string>
+    <string name="parseError">Parsing error! Please try again after some time!</string>
+    <string name="noConnectionError">Cannot connect to Internet...Please check your connection!</string>
+    <string name="timeoutError">Connection TimeOut! Please check your internet connection!</string>
+</resources>
